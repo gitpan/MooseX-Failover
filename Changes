@@ -1,4 +1,8 @@
 Revision history for MooseX-Failover
 
+v0.1.1    2014-12-02 12:45:50+00:00 Europe/London
+   [Bug Fixes]
+   - Fixed minimum version of Moose prereqs.
+
 v0.1.0    2014-12-01 17:41:02+00:00 Europe/London
    - Initial version.

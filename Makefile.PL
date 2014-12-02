@@ -23,11 +23,11 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Carp" => 0,
     "Class::Load" => "0.20",
-    "Moose" => 0,
+    "Moose" => "2.1101",
     "PerlX::Maybe" => "0.03",
     "Test::Most" => 0
   },
-  "VERSION" => "v0.1.0",
+  "VERSION" => "v0.1.1",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -38,7 +38,7 @@ my %FallbackPrereqs = (
   "Carp" => 0,
   "Class::Load" => "0.20",
   "ExtUtils::MakeMaker" => 0,
-  "Moose" => 0,
+  "Moose" => "2.1101",
   "PerlX::Maybe" => "0.03",
   "Test::Most" => 0
 );
