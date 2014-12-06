@@ -5,7 +5,7 @@ MANIFEST
 MANIFEST.SKIP
 META.yml
 Makefile.PL
-README
+README.pod
 examples/01-web-machine.psgi
 lib/MooseX/Failover.pm
 t/01-use.t

@@ -27,7 +27,7 @@ my %WriteMakefileArgs = (
     "PerlX::Maybe" => "0.03",
     "Test::Most" => 0
   },
-  "VERSION" => "v0.1.1",
+  "VERSION" => "v0.1.2",
   "test" => {
     "TESTS" => "t/*.t"
   }

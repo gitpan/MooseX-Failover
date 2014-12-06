@@ -25,4 +25,4 @@ requires:
 resources:
   bugtracker: https://github.com/robrwo/MooseX-Failover/issues
   repository: git://github.com/robrwo/MooseX-Failover.git
-version: v0.1.1
+version: v0.1.2
