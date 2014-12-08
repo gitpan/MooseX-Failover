@@ -14,15 +14,13 @@ meta-spec:
 name: MooseX-Failover
 recommends:
   Class::Load::XS: '0'
-  PerlX::Maybe::XS: '0'
 requires:
   Carp: '0'
   Class::Load: '0.20'
   Moose: '2.1101'
-  PerlX::Maybe: '0.03'
   Test::Most: '0'
   perl: '5.010'
 resources:
   bugtracker: https://github.com/robrwo/MooseX-Failover/issues
   repository: git://github.com/robrwo/MooseX-Failover.git
-version: v0.1.2
+version: v0.1.3

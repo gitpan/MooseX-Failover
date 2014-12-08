@@ -1,5 +1,9 @@
 Revision history for MooseX-Failover
 
+v0.1.3    2014-12-08 18:10:12+00:00 Europe/London
+   [Enhancements]
+   - PerlX::Maybe is no longer needed.
+
 v0.1.2    2014-12-06 17:47:21+00:00 Europe/London
    [Documentation]
    - README is generated using Pod::Readme.
